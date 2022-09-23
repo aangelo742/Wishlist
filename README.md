@@ -36,6 +36,8 @@ GIF created with Recordit
 
 Describe any challenges encountered while building the app.
 
+I found it challenging to correctly add the price to the list I used.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
